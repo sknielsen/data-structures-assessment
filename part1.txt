@@ -1,0 +1,26 @@
+Part 1:
+
+Runtime
+1.The amount of animal crackers in the box
+2. O(1), O(log n), O(n), O(n log n), O(n^2), O(2^n)
+
+Stacks and Queues
+1. Stack, Queue, Stack
+2. A drive thru carwash, standing in line at the grocery store
+3. Entering and exiting an elevator, filling and emptying a dirty clothes hamper
+
+Linked Lists
+1. The boxes are the nodes, the words in "" is the data, the box with the data "Apple" 
+    is the head and the box with the data "Cherry" is the tail.
+2. Single linked lists only point one direction, where doubly linked lists point to the next
+    and backwards to the one before it.
+3. Because to append a list means we put a new node at the end and if we know where the tail is
+    then we know exactly where to append the new node without traversing the list, so instead of O(n)
+    it is O(1).
+
+Trees
+1. Food, Italian, Indian, Mexican, lasagna, pizza, tikka masala, saag, burritos
+2. food, mexican, enchiladas, tacos, burritos, indian, saag, tikka masala, italian, pizza, 
+    sicilian, new york-style, chicago-style
+3. each node has no more than two children, and there is a rule for arrangment, they are faster to search.
+
